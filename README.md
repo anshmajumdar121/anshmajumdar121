@@ -1,16 +1,10 @@
-<h1 align="center">Hey there, I'm Ansh Majumdar 👋</h1>h1>
+# Hey there, I'm Ansh Majumdar 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Developer+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%A1;Always+learning+something+new+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-</p>p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=false&width=500&lines=Developer+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%A1;Always+learning+something+new+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%A4%9D)
 
-<p align="center">
-  <a href="https://anshmajumdar121.github.io/love-letter-for-you/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 My Project-Visit-orange?style=for-the-badge" alt="My Project" />
-  </a>a>
-    <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps" />
-      <img src="https://img.shields.io/badge/Open%20To-Collabs-brightgreen?style=for-the-badge" />
-</p>p>
+[![My Project](https://img.shields.io/badge/My_Project-Visit-orange?style=for-the-badge)](https://anshmajumdar121.github.io/love-letter-for-you/)
+![Location](https://img.shields.io/badge/Location-India-blue?style=for-the-badge)
+![Open To](https://img.shields.io/badge/Open_To-Collabs-brightgreen?style=for-the-badge)
 
 ---
 
@@ -27,35 +21,28 @@
 
           ## 🛠️ Tech Stack
 
-          <p align="left">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-                  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-                    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-                      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-          </p>p>
+          ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+          ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+          ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+          ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+          ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
           ---
 
           ## 📌 Featured Project
 
-          <a href="https://github.com/anshmajumdar121/love-letter-for-you">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshmajumdar121&repo=love-letter-for-you&theme=radical" />
-          </a>a>
+          [![love-letter-for-you](https://github-readme-stats.vercel.app/api/pin/?username=anshmajumdar121&repo=love-letter-for-you&theme=radical)](https://github.com/anshmajumdar121/love-letter-for-you)
 
           ---
 
           ## 📊 GitHub Stats
 
-          <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=anshmajumdar121&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmajumdar121&layout=compact&theme=radical&hide_border=true" height="150" />
-          </p>p>
+          ![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshmajumdar121&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-          <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshmajumdar121&theme=radical&hide_border=true" />
-          </p>p>
+          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshmajumdar121&layout=compact&theme=radical&hide_border=true)
+
+          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshmajumdar121&theme=radical&hide_border=true)
 
           ---
 
@@ -67,10 +54,6 @@
              
               - ---
 
-              <p align="center">
-                <img src="https://komarev.com/ghpvc/?username=anshmajumdar121&label=Profile+Views&color=orange&style=flat" alt="profile views" />
-              </p>p>
+              ![Profile Views](https://komarev.com/ghpvc/?username=anshmajumdar121&label=Profile+Views&color=orange&style=flat)
 
-              <p align="center">
-                <i>✨ "Code is like poetry — it's better when it's beautiful." ✨</i>i>
-              </p>p></i>
+              _"Code is like poetry — it's better when it's beautiful." ✨_
